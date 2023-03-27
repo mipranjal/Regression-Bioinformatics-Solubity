@@ -1,5 +1,5 @@
-##Model Building for Solubility Dataset
-Author: Pranjal Mishra
+# Model Building for Solubility Dataset
+## Author: Pranjal Mishra
 
 ## Objective
 
